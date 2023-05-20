@@ -1,0 +1,80 @@
+body {
+    background-color: #aeaeae
+}
+
+/* button {
+    position: fixed;
+    bottom: 10px;
+    left: 48%;
+    transform: translate(-48%);
+}
+
+button + p + button {
+    position: fixed;
+    left: 52%;
+    transform: translate(-52%);
+}
+
+button + p {
+    position: fixed;
+    bottom:-5px;
+    left: 50%;
+    transform: translate(-50%);
+} */
+
+label {
+    display: block;
+    text-align: center;
+    color: #fff
+}
+
+input {
+    width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+th {
+    background-color: #ccc;
+}
+
+.modal-content {
+    background-color: #405fc5
+}
+
+h5 {
+    color: #fff
+}
+
+.modal-footer {
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.btn.btn-primary {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 45%;
+    background-color: #ff9f21
+}
+.btn.btn-secondary {
+    position: absolute;
+    top:10px;
+    right: 10px;
+    width: 45%;
+    background-color: #b9b9b9;
+}
+
+button.close {
+    color: #fff
+}
